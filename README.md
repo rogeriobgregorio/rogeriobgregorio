@@ -1,5 +1,5 @@
 <div align="center"> 
-  <h2>Olá, pessoal! Sejam bem-vindos ao meu GitHub! 👋 </h2>
+  <h2>Olá, pessoal! Sejam bem-vindos ao meu GitHub!</h2>
 </div>
 
 <div align="center"><br>
@@ -25,8 +25,3 @@
 
 ![snake gif](https://github.com/rogeriobgregorio/rogeriobgregorio/blob/output/github-contribution-grid-snake.svg)
 </div>
-
-
-
-
-
