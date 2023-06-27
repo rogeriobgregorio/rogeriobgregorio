@@ -1,5 +1,5 @@
 <div align="center"> 
-  <h2>Olá, pessoal! Sejam bem-vindos ao meu GitHub!</h2>
+<h3>Olá! Seja bem-vindo ao meu GitHub!</h3>
 </div>
 
 <div align="center"><br>
@@ -22,4 +22,6 @@
 <div align="center"><br>
   <a href="https://www.linkedin.com/in/rogeriogregorio/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+  ![snake gif](https://github.com/rogeriobgregorio/rogeriobgregorio/blob/output/github-contribution-grid-snake.svg)
 </div>
