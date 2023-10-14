@@ -31,6 +31,3 @@
 
   <a href="https://linkedin.com/in/rogeriogregorio">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" target="_blank"></a>
-
-  ![snake gif](https://github.com/rogeriobgregorio/rogeriobgregorio/blob/output/github-contribution-grid-snake.svg)
-</div>
