@@ -1,6 +1,6 @@
 # Bem-vindo ao meu perfil do GitHub!
 
-Olá, sou um entusiasta do desenvolvimento Java apaixonado por programação e sempre em busca de novas oportunidades no mundo do desenvolvimento de software.
+Olá, sou um desenvolvedor Java apaixonado por programação em busca de novas oportunidades no mundo do desenvolvimento de software.
 <div align="center"><br>
   <a href="https://facebook.com/rogeriogregorio93">
   <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" target="_blank"></a>
