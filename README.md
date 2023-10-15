@@ -1,6 +1,31 @@
-<div align="center"> 
-<h3>Olá! Seja bem-vindo!</h3>
-</div>
+# Bem-vindo ao meu perfil do GitHub!
+
+Olá, sou um entusiasta do desenvolvimento Java apaixonado por programação e sempre em busca de novas oportunidades no mundo do desenvolvimento de software.
+
+## Conhecimentos Técnicos
+
+Aqui estão alguns dos meus conhecimentos técnicos:
+
+- **Linguagem**: Java
+- **Framework**: Spring
+- **APIs**: Construção de APIs REST
+- **Testes Automatizados**: JUnit
+- **Segurança**: Autorização e autenticação com JWT e OAuth2
+- **Controle de Versão**: Git e GitHub
+- **Bancos de Dados**: PL/SQL, SQL Server e H2
+- **Java EE**: Servlets, JPA, Hibernate, JSP e JSTL
+- **Java SE**: JavaFX e JDBC
+- **Modelagem**: UML para modelagem de sistemas
+
+## Minha Jornada Acadêmica e Profissional
+
+- Em julho de 2023, concluí minha graduação em **Análise e Desenvolvimento de Sistemas** na FATEC Zona Leste.
+- Tive a oportunidade de estagiar voluntariamente na FATEC como promotor de cursos extracurriculares. Essa experiência não só aprimorou minhas habilidades de comunicação e trabalho em equipe, mas também me permitiu conduzir a organização de cursos, palestras e workshops para o crescimento da comunidade estudantil.
+
+Seja bem-vindo para explorar meus repositórios e entrar em contato se estiver interessado em colaborar ou discutir projetos e oportunidades de desenvolvimento. Estou sempre aberto a novos desafios e aprendizado constante.
+
+Muito obrigado por visitar o meu perfil!
+
 
 <!--
 <div align="center">
