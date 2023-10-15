@@ -1,6 +1,16 @@
 # Bem-vindo ao meu perfil do GitHub!
 
 Olá, sou um entusiasta do desenvolvimento Java apaixonado por programação e sempre em busca de novas oportunidades no mundo do desenvolvimento de software.
+<div align="center"><br>
+  <a href="https://facebook.com/rogeriogregorio93">
+  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" target="_blank"></a>
+
+  <a href="https://instagram.com/rogeriogregorio_">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" target="_blank"></a>
+
+  <a href="https://linkedin.com/in/rogeriogregorio">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
 
 ## Conhecimentos Técnicos
 
@@ -46,15 +56,5 @@ Muito obrigado por visitar o meu perfil!
   
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  -->
 </div>
-
-<div align="center"><br>
-  <a href="https://facebook.com/rogeriogregorio93">
-  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" target="_blank"></a>
-
-  <a href="https://instagram.com/rogeriogregorio_">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" target="_blank"></a>
-
-  <a href="https://linkedin.com/in/rogeriogregorio">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" target="_blank"></a>
+-->
