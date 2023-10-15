@@ -33,7 +33,7 @@ Muito obrigado por visitar o meu perfil!
   <img height="192em" src="https://github-readme-stats.vercel.app/api?username=rogeriobgregorio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="192em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogeriobgregorio&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
--->
+
   
 <div align="center"><br>
   <img align="center" src="https://img.shields.io/badge/Java-%238D6748.svg?style=flat&logo=gitea&logoColor=white">
@@ -43,7 +43,7 @@ Muito obrigado por visitar o meu perfil!
   <img align="center" src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/Javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E">
   
-  <!--
+  
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   -->
