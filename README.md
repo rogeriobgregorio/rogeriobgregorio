@@ -19,7 +19,7 @@ Aqui estão alguns dos meus conhecimentos técnicos:
 - **Linguagem**: Java
 - **Framework**: Spring
 - **APIs**: Construção de APIs REST
-- **Testes Automatizados**: JUnit
+- **Testes Automatizados**: JUnit e Mockito
 - **Segurança**: Autorização e autenticação com JWT e OAuth2
 - **Controle de Versão**: Git e GitHub
 - **Bancos de Dados**: PL/SQL, SQL Server e H2
