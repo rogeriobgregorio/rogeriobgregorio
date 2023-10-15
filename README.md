@@ -27,11 +27,12 @@ Aqui estão alguns dos meus conhecimentos técnicos:
 - **Java SE**: JavaFX e JDBC
 - **Modelagem**: UML para modelagem de sistemas
 
+<!--
 ## Minha Jornada Acadêmica e Profissional
 
 - Em julho de 2023, concluí minha graduação em **Análise e Desenvolvimento de Sistemas** na FATEC Zona Leste.
 - Tive a oportunidade de estagiar voluntariamente na FATEC como promotor de cursos extracurriculares. Essa experiência não só aprimorou minhas habilidades de comunicação e trabalho em equipe, mas também me permitiu conduzir a organização de cursos, palestras e workshops para o crescimento da comunidade estudantil.
-
+-->
 Seja bem-vindo para explorar meus repositórios e entrar em contato se estiver interessado em colaborar ou discutir projetos e oportunidades de desenvolvimento. Estou sempre aberto a novos desafios e aprendizado constante.
 
 Muito obrigado por visitar o meu perfil!
