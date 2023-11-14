@@ -16,6 +16,7 @@ Aqui estão alguns dos meus conhecimentos técnicos:
 - **Java EE**: Servlets, JPA, Hibernate, JSP e JSTL
 - **Java SE**: JavaFX e JDBC
 - **Modelagem**: UML para modelagem de sistemas
+- **Front-end**: HTML, CSS e Javascript
 
 <!--
 ## Minha Jornada Acadêmica e Profissional
