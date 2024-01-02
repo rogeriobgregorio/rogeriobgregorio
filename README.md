@@ -11,6 +11,7 @@ Aqui estão alguns dos meus conhecimentos técnicos:
 - **APIs**: Construção de APIs REST
 - **Testes Automatizados**: JUnit e Mockito
 - **Segurança**: Autorização e autenticação com JWT e OAuth2
+- **Documentação**: Swagger Documentation
 - **Controle de Versão**: Git e GitHub
 - **Bancos de Dados**: PL/SQL, SQL Server e H2
 - **Java EE**: Servlets, JPA, Hibernate, JSP e JSTL
