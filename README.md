@@ -6,7 +6,7 @@ para atuar como desenvolvedor Java Spring.
  
 • Experiência na construção de API's Rest robustas, priorizando código limpo.</br>
 • Desenvolvimento com JPA, Hibernate, JWT, JUnit, Mockito, log4j2, Swagger.</br>
-• Stack principal: Java e Ecossistema Spring (Boot, Data, WEB MVC, Security), T-SQL.</br>
+• Stack principal: Java e Ecossistema Spring (Boot, Data, MVC, Security), T-SQL.</br>
 • Graduado em Análise e Desenvolvimento de Sistemas pela FATEC Zona Leste.</br>
 </p>
 
