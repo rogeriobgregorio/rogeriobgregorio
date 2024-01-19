@@ -1,7 +1,5 @@
 ## Olá, meu nome é Rogério Gregório!
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
-
 <p align="left"> 
 Desenvolvedor de software apaixonado por tecnologia em busca de oportunidades para atuar 
 como desenvolvedor Java Spring.
