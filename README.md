@@ -1,63 +1,43 @@
-# Bem-vindo ao meu perfil do GitHub!
+## Olá, meu nome é Rogério Gregório!
 
-Olá, sou um desenvolvedor Java apaixonado por programação em busca de novas oportunidades no mundo do desenvolvimento de software.
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-## Conhecimentos Técnicos
+<p align="left"> 
+Desenvolvedor de software apaixonado por tecnologia em busca de oportunidades para atuar 
+como desenvolvedor Java Spring.
+ 
+• Experiência na construção de API's Rest robustas, priorizando código limpo.</br>
+• Desenvolvimento com JPA, Hibernate, JWT, JUnit, Mockito, log4j2, Swagger.</br>
+• Stack principal: Java e Ecossistema Spring (Boot, Data, WEB MVC, Security), T-SQL.</br>
+• Graduado em Análise e Desenvolvimento de Sistemas pela FATEC Zona Leste.</br>
+</p>
 
-Aqui estão alguns dos meus conhecimentos técnicos:
-
-- **Linguagem**: Java
-- **Framework**: Spring
-- **APIs**: Construção de APIs REST
-- **Testes Automatizados**: JUnit e Mockito
-- **Segurança**: Autorização e autenticação com JWT e OAuth2
-- **Documentação**: Swagger Documentation
-- **Controle de Versão**: Git e GitHub
-- **Bancos de Dados**: PL/SQL, SQL Server e H2
-- **Java EE**: Servlets, JPA, Hibernate, JSP e JSTL
-- **Java SE**: JavaFX e JDBC
-- **Modelagem**: UML para modelagem de sistemas
-- **Front-end**: HTML, CSS e Javascript
-
-<!--
-## Minha Jornada Acadêmica e Profissional
-
-- Em julho de 2023, concluí minha graduação em **Análise e Desenvolvimento de Sistemas** na FATEC Zona Leste.
-- Tive a oportunidade de estagiar voluntariamente na FATEC como promotor de cursos extracurriculares. Essa experiência não só aprimorou minhas habilidades de comunicação e trabalho em equipe, mas também me permitiu conduzir a organização de cursos, palestras e workshops para o crescimento da comunidade estudantil.
--->
-Seja bem-vindo para explorar meus repositórios e entrar em contato se estiver interessado em colaborar ou discutir projetos e oportunidades de desenvolvimento. Estou sempre aberto a novos desafios e aprendizado constante.
-
-<div align="center"><br>
-  <a href="https://facebook.com/rogeriogregorio93">
-  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" target="_blank"></a>
-
-  <a href="https://instagram.com/rogeriogregorio_">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" target="_blank"></a>
-
-  <a href="https://linkedin.com/in/rogeriogregorio">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" target="_blank"></a>
-
-  Muito obrigado por visitar o meu perfil!
-</div>
-
-<!--
-<div align="center">
-  <a href="https://github.com/rogeriobgregorio">
-  <img height="192em" src="https://github-readme-stats.vercel.app/api?username=rogeriobgregorio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="192em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogeriobgregorio&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
-  
-<div align="center"><br>
+<p align="left">
+  <strong>Stack:</strong>
+  <div align="left">
   <img align="center" src="https://img.shields.io/badge/Java-%238D6748.svg?style=flat&logo=gitea&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/SQL%20Sever-%23007ACC?style=flat&logo=microsoft%20sql%20server&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/Javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E">
-  
-  
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
--->
+</p>
+
+<p align="left">
+   <strong>Contato:</strong>
+</p>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/rogeriogregorio/" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rogeriogregorio" alt="LinkedIn"/></a>
+  <a href="https://wa.me/5511961914439" title="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/5511961914439" alt="WhatsApp"/></a>
+  <a href="https://www.instagram.com/rogeriogregorio_" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/rogeriogregorio_" alt="Instagram"/></a>
+  <a href="https://web.facebook.com/rogeriogregorio93" title="Facebook">
+  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://web.facebook.com/rogeriogregorio93" alt="Facebook"/></a>
+</p>
+
+
+
