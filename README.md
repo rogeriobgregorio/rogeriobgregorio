@@ -1,4 +1,4 @@
-## Olá, meu nome é Rogério Gregório!
+# Olá, meu nome é Rogério Gregório!
 
 <p align="left"> 
 Desenvolvedor de software apaixonado por tecnologia em busca </br>
