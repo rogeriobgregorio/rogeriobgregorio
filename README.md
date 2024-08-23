@@ -9,6 +9,7 @@ de oportunidades para atuar como desenvolvedor Java Spring.
 ⚙️ SOLID e Design Patterns para softwares flexíveis, escaláveis e manuteníveis.</br>
 🔧 Stack principal: Java e Ecossistema Spring (Boot, Data, MVC, Security), T-SQL.</br>
 🎓 Graduado em Análise e Desenvolvimento de Sistemas pela FATEC Zona Leste.</br>
+📚 Graduando em Desenvolvimento de Software Multiplataforma.</br>
 </p>
 
 <p align="left">
