@@ -18,9 +18,11 @@ de oportunidades para atuar como desenvolvedor Java Spring.
   <img align="center" src="https://img.shields.io/badge/Java-%238D6748.svg?style=flat&logo=gitea&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/SQL%20Sever-%23007ACC?style=flat&logo=microsoft%20sql%20server&logoColor=white">
+  <img align="center" src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/Javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E">
+  <img align="center" src="https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=nodedotjs&logoColor=white">
 </div>
 </p>
 
