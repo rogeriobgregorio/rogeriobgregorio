@@ -10,7 +10,7 @@ utilizando o ecossistema Java Spring, em busca de oportunidades para atuar na á
 JUnit, Mockito, Log4j 2, JDBC, Servlets, JSP, JavaFX.  
 📊 Bancos de Dados: SQL Server, MongoDB, com experiência em SQL e NoSQL, além de PL-SQL.  
 🎨 Frontend: HTML, CSS, JavaScript e Bootstrap.  
-🛠️ Ferramentas: Intellij, VS CODE, Eclipse, Postman, Mongo Compass, Swagger, Trello.  
+🛠️ Ferramentas: Intellij, VS Code, Eclipse, Postman, Mongo Compass, Swagger, Trello.  
 ⚙️ Metodologias ágeis: Scrum, Kanban.  
 ✅ Boas Práticas: princípios SOLID, Design Patterns, Clean Code, documentação UML.  
 📈 Automação em Excel: VBA (Visual Basic for Applications).  
