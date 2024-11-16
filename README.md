@@ -19,12 +19,10 @@ JUnit, Mockito, Log4j 2, JDBC, Servlets, JSP, JavaFX.
 🎓 Graduado em Análise e Desenvolvimento de Sistemas pela FATEC Zona Leste.  
 📖 Atualmente cursando Desenvolvimento de Software Multiplataforma na FATEC Zona Leste.  
 
-Sou comprometido com desenvolvimento contínuo, entrega de valor e inovação tecnológica!  
-
 </p>
 
 <p align="left">
-  <strong>Stack:</strong>
+  <strong>Stack Principal:</strong>
   <div align="left">
   <img align="center" src="https://img.shields.io/badge/Java-%238D6748.svg?style=flat&logo=gitea&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white">
@@ -33,7 +31,6 @@ Sou comprometido com desenvolvimento contínuo, entrega de valor e inovação te
   <img align="center" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/Javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E">
-  <img align="center" src="https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=nodedotjs&logoColor=white">
 </div>
 </p>
 
