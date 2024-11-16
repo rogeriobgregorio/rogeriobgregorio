@@ -2,7 +2,7 @@
 
 <p align="left"> 
 
-Desenvolvedor de software apaixonado por tecnologia, com experiência em desenvolvimento backend <br>
+Desenvolvedor de software apaixonado por programação, com experiência em desenvolvimento backend <br>
 utilizando o ecossistema Java Spring, em busca de oportunidades para atuar na área de tecnologia.
 
 🚀 Experiência em construção de APIs REST robustas, priorizando código limpo e escalável.  
