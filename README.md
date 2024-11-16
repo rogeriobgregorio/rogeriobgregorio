@@ -1,15 +1,24 @@
 # 👋 Olá, meu nome é Rogério Gregório!
 
 <p align="left"> 
-Desenvolvedor de software apaixonado por tecnologia em busca </br>
-de oportunidades para atuar como desenvolvedor Java Spring.
- 
-🚀 Experiência na construção de API's Rest robustas, priorizando código limpo.</br>
-💻 Desenvolvimento com JPA, Hibernate, JWT, JUnit, Mockito, log4j2, Swagger.</br>
-⚙️ SOLID e Design Patterns para softwares flexíveis, escaláveis e manuteníveis.</br>
-🔧 Stack principal: Java e Ecossistema Spring (Boot, Data, MVC, Security), T-SQL.</br>
-🎓 Graduado em Análise e Desenvolvimento de Sistemas pela FATEC Zona Leste.</br>
-📚 Cursando Desenvolvimento de Software Multiplataforma pela FATEC Zona Leste.</br>
+
+Desenvolvedor de software apaixonado por tecnologia, com experiência em desenvolvimento backend utilizando o ecossistema Java Spring, em busca de oportunidades para atuar na área de tecnologia.
+
+🚀 Experiência em construção de APIs REST robustas, priorizando código limpo e escalável.  
+💻 Backend: Java, Spring Framework (Boot, Security, Data, MVC, Mail), JPA, Hibernate, JWT, JUnit, Mockito, Log4j 2, JDBC, Servlets, JSP, JavaFX.  
+📊 Bancos de Dados: SQL Server, MongoDB, com experiência em SQL e NoSQL, além de PL-SQL.  
+🎨 Frontend: HTML, CSS, JavaScript e Bootstrap.  
+🛠️ Ferramentas: Intellij IDEA, VS CODE, Eclipe, Postman, Mongo Compass, Swagger, Trello.  
+⚙️ Metodologias ágeis: Scrum, Kamban.  
+✅ Boas Práticas: princípios SOLID, Design Patterns, Clean Code, documentação UML.  
+📈 Automação em Excel: VBA (Visual Basic for Applications).  
+
+📚 Formação Acadêmica:  
+🎓 Graduado em Análise e Desenvolvimento de Sistemas pela FATEC Zona Leste.  
+📖 Atualmente cursando Desenvolvimento de Software Multiplataforma na FATEC Zona Leste.  
+
+Sou comprometido com desenvolvimento contínuo, entrega de valor e inovação tecnológica!  
+
 </p>
 
 <p align="left">
