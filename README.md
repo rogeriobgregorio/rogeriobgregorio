@@ -11,7 +11,7 @@ JUnit, Mockito, Log4j 2, JDBC, Servlets, JSP, JavaFX.
 📊 Bancos de Dados: SQL Server, MongoDB, com experiência em SQL e NoSQL, além de PL-SQL.  
 🎨 Frontend: HTML, CSS, JavaScript e Bootstrap.  
 🛠️ Ferramentas: Intellij IDEA, VS CODE, Eclipe, Postman, Mongo Compass, Swagger, Trello.  
-⚙️ Metodologias ágeis: Scrum, Kamban.  
+⚙️ Metodologias ágeis: Scrum, Kanban.  
 ✅ Boas Práticas: princípios SOLID, Design Patterns, Clean Code, documentação UML.  
 📈 Automação em Excel: VBA (Visual Basic for Applications).  
 
