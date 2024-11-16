@@ -2,10 +2,12 @@
 
 <p align="left"> 
 
-Desenvolvedor de software apaixonado por tecnologia, com experiência em desenvolvimento backend utilizando o ecossistema Java Spring, em busca de oportunidades para atuar na área de tecnologia.
+Desenvolvedor de software apaixonado por tecnologia, com experiência em desenvolvimento backend <br>
+utilizando o ecossistema Java Spring, em busca de oportunidades para atuar na área de tecnologia.
 
 🚀 Experiência em construção de APIs REST robustas, priorizando código limpo e escalável.  
-💻 Backend: Java, Spring Framework (Boot, Security, Data, MVC, Mail), JPA, Hibernate, JWT, JUnit, Mockito, Log4j 2, JDBC, Servlets, JSP, JavaFX.  
+💻 Backend: Java, Spring Framework (Boot, Security, Data, MVC, Mail), JPA, Hibernate, JWT, <br>
+JUnit, Mockito, Log4j 2, JDBC, Servlets, JSP, JavaFX.  
 📊 Bancos de Dados: SQL Server, MongoDB, com experiência em SQL e NoSQL, além de PL-SQL.  
 🎨 Frontend: HTML, CSS, JavaScript e Bootstrap.  
 🛠️ Ferramentas: Intellij IDEA, VS CODE, Eclipe, Postman, Mongo Compass, Swagger, Trello.  
