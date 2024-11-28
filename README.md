@@ -19,7 +19,7 @@ Hibernate, JWT, JUnit, Mockito, Log4j 2, JDBC, Servlets, JSP, JSTL, JavaFX.
 
 ## 🎓 Formação Acadêmica:
  - Graduado em Análise e Desenvolvimento de Sistemas pela FATEC Zona Leste.
- - Atualmente cursando Desenvolvimento de Software Multiplataforma na FATEC Zona Leste.
+ - Cursando Desenvolvimento de Software Multiplataforma na FATEC Zona Leste.
   
 ## 💬 Contato
 - Linkedin: [linkedin.com/in/rogeriogregorio](https://linkedin.com/in/rogeriogregorio)
