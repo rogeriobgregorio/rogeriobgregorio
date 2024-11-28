@@ -7,7 +7,7 @@ utilizando o ecossistema Java Spring, em busca de oportunidades para atuar na á
 
 🚀 Experiência em construção de APIs REST robustas, priorizando código limpo e escalável.  
 💻 Backend: Java, Spring Framework (Boot, Security, Data, MVC, Mail), JPA, Hibernate, JWT, <br>
-JUnit, Mockito, Log4j 2, JDBC, Servlets, JSP, JavaFX.  
+JUnit, Mockito, Log4j 2, JDBC, Servlets, JSP, JSTL, JavaFX.  
 📊 Bancos de Dados: SQL Server, MongoDB, SQL (com Proc. e Func.), NoSQL e H2.  
 🎨 Frontend: HTML, CSS, JavaScript e Bootstrap.  
 🛠️ Ferramentas: Intellij, VS Code, Eclipse, Postman, Mongo Compass, Swagger, Trello.  
