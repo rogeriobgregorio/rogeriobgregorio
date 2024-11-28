@@ -1,41 +1,29 @@
 # 👋 Olá, meu nome é Rogério Gregório!
 
 <p align="left"> 
-
+  
+## 🚀 Sobre mim
 Desenvolvedor de software apaixonado por programação, com experiência em desenvolvimento backend <br>
 utilizando o ecossistema Java Spring, em busca de oportunidades para atuar na área de tecnologia.
 
-🚀 Experiência em construção de APIs REST robustas, priorizando código limpo e escalável.  
-💻 Backend: Java, Spring Framework (Boot, Security, Data, MVC, Mail), JPA, Hibernate, JWT, <br>
-JUnit, Mockito, Log4j 2, JDBC, Servlets, JSP, JSTL, JavaFX.  
-📊 Bancos de Dados: SQL Server, MongoDB, SQL (com Proc. e Func.), NoSQL e H2.  
-🎨 Frontend: HTML, CSS, JavaScript e Bootstrap.  
-🛠️ Ferramentas: Intellij, VS Code, Eclipse, Postman, Mongo Compass, Swagger, Trello.  
-⚙️ Metodologias ágeis: Scrum, Kanban.  
-✅ Boas Práticas: princípios SOLID, Design Patterns, Clean Code, documentação UML.  
-📈 Automação em Excel: VBA (Visual Basic for Applications).  
+## 🛠 Habilidades
+ Experiência em construção de **APIs REST** robustas, priorizando código limpo e escalável.
+- **Backend:** Java, Spring Framework (Boot, Security, Data, MVC, Mail), JPA, <br>
+Hibernate, JWT, JUnit, Mockito, Log4j 2, JDBC, Servlets, JSP, JSTL, JavaFX.
+- **Bancos de Dados:** SQL Server, MongoDB, SQL (com Proc. e Func.), NoSQL e H2.
+- **Frontend:** HTML, CSS, JavaScript, Charts.js, Bootstrap.
+- **Ferramentas:** Intellij, VS Code, Eclipse, Postman, Mongo Compass, Swagger, Trello.
+- **Metodologias ágeis:** Scrum, Kanban.
+- **Boas Práticas:** princípios SOLID, Design Patterns, Clean Code, documentação UML.
+- **Automação em Excel:** VBA (Visual Basic for Applications).
 
-📚 Formação Acadêmica:  
-🎓 Graduado em Análise e Desenvolvimento de Sistemas pela FATEC Zona Leste.  
-📖 Atualmente cursando Desenvolvimento de Software Multiplataforma na FATEC Zona Leste.  
-
+## 🎓 Formação Acadêmica:
+ - Graduado em Análise e Desenvolvimento de Sistemas pela FATEC Zona Leste.
+ - Atualmente cursando Desenvolvimento de Software Multiplataforma na FATEC Zona Leste.
 </p>
-
-<p align="left">
-  <strong>Stack Principal:</strong>
-  <div align="left">
-  <img align="center" src="https://img.shields.io/badge/Java-%238D6748.svg?style=flat&logo=gitea&logoColor=white">
-  <img align="center" src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white">
-  <img align="center" src="https://img.shields.io/badge/SQL%20Sever-%23007ACC?style=flat&logo=microsoft%20sql%20server&logoColor=white">
-  <img align="center" src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white">
-  <img align="center" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white">
-  <img align="center" src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white">
-  <img align="center" src="https://img.shields.io/badge/Javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E">
-</div>
-</p>
-
-<p align="left">
-   <strong>Contato:</strong>
+  
+   ## Contato
+   
 </p>
 
 <p align="left">
