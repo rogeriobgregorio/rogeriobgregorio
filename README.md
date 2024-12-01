@@ -9,7 +9,7 @@ desenvolvimento **backend** e construção de **APIs REST** com foco em **Java S
   JWT, JUnit, Mockito, Log4j 2, JDBC, Servlets, JSP, JSTL, JavaFX.
 - **Bancos de Dados:** SQL (Proc. e Func.), NoSQL.
 - **Frontend:** HTML, CSS, JavaScript, Charts.js, Bootstrap.
-- **Ferramentas:** Intellij, VS Code, Postman, SQL Server MongoDB Compass, Swagger, Trello.
+- **Ferramentas:** Intellij, VS Code, Postman, SQL Server, MongoDB Compass, Swagger, Trello.
 - **Metodologias ágeis:** Scrum, Kanban.
 - **Boas Práticas:** princípios SOLID, Design Patterns, Clean Code, documentação UML.
 - **Automação com macros em Excel:** VBA (Visual Basic for Applications).
