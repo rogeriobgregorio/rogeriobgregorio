@@ -1,21 +1,18 @@
 # 👋 Olá, meu nome é Rogério Gregório!
-
-<p align="left"> 
   
 ## 🚀 Sobre mim
-Desenvolvedor de software apaixonado por programação, com experiência em desenvolvimento backend <br>
-utilizando o ecossistema Java Spring, em busca de oportunidades para atuar na área de tecnologia.
+Desenvolvedor de software apaixonado por programação, com experiência em <br>
+desenvolvimento **backend** e construção de **APIs REST** com foco em **Java Spring**.
 
 ## 🛠 Habilidades
- Experiência em construção de **APIs REST** robustas, priorizando código limpo e escalável.
 - **Backend:** Java e Spring (Web, Security, Data, MVC, Mail), JPA, Hibernate, <br>
   JWT, JUnit, Mockito, Log4j 2, JDBC, Servlets, JSP, JSTL, JavaFX.
-- **Bancos de Dados:** SQL Server, MongoDB, SQL (com Proc. e Func.), NoSQL e H2.
+- **Bancos de Dados:** SQL (Proc. e Func.), NoSQL.
 - **Frontend:** HTML, CSS, JavaScript, Charts.js, Bootstrap.
-- **Ferramentas:** Intellij, VS Code, Eclipse, Postman, Mongo Compass, Swagger, Trello.
+- **Ferramentas:** Intellij, VS Code, Postman, SQL Server MongoDB Compass, Swagger, Trello.
 - **Metodologias ágeis:** Scrum, Kanban.
 - **Boas Práticas:** princípios SOLID, Design Patterns, Clean Code, documentação UML.
-- **Automação em Excel:** VBA (Visual Basic for Applications).
+- **Automação com macros em Excel:** VBA (Visual Basic for Applications).
 
 ## 🎓 Formação Acadêmica:
  - Graduado em Análise e Desenvolvimento de Sistemas pela FATEC Zona Leste.
