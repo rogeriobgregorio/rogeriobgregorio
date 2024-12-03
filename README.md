@@ -1,11 +1,7 @@
 # 👋 Olá, meu nome é Rogério Gregório!
   
 ## 🚀 Sobre mim
-Desenvolvedor de software apaixonado por programação, com experiência em <br>
-desenvolvimento **backend** e construção de **APIs REST** com foco em **Java Spring**. <br>
-Adoto metodologias ágeis como **Scrum** e **Kanban** para garantir entregas de qualidade. <br>
-Meu trabalho é guiado por boas práticas de desenvolvimento, incluindo os princípios <br>
-**SOLID**, **Design Patterns** e **Clean Code**.
+Desenvolvedor de software apaixonado por programação, com experiência em desenvolvimento **backend** e construção de **APIs REST** utilizando **Java** e ecossistema **Spring**. Adoto metodologias ágeis como **Scrum** e **Kanban** para garantir entregas de valor, além de boas práticas de desenvolvimento, incluindo os princípios **SOLID**, **Design Patterns** e **Clean Code** para códigos escaláveis e de fácil manutenção.
 
 ## 🛠 Principais Habilidades
 **Backend:** <br>
