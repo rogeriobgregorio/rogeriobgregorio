@@ -7,7 +7,7 @@ desenvolvimento **backend** e construção de **APIs REST** com foco em **Java S
 ## 🛠 Habilidades
 - **Backend:** Java e Spring (Web, Security, Data, MVC, Mail), JPA, Hibernate, <br>
   JWT, JUnit, Mockito, Log4j 2, JDBC, Servlets, JSP, JSTL, JavaFX.
-- **Bancos de Dados:** SQL (Proc. e Func.), NoSQL.
+- **Bancos de Dados:** SQL, T-SQL, NoSQL.
 - **Frontend:** HTML, CSS, JavaScript, Charts.js, Bootstrap.
 - **Ferramentas:** Intellij, VS Code, Postman, SQL Server, MongoDB Compass, Swagger, Trello.
 - **Metodologias ágeis:** Scrum, Kanban.
