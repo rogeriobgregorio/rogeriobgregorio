@@ -2,22 +2,45 @@
   
 ## 🚀 Sobre mim
 Desenvolvedor de software apaixonado por programação, com experiência em <br>
-desenvolvimento **backend** e construção de **APIs REST** com foco em **Java Spring**.
+desenvolvimento **backend** e construção de **APIs REST** com foco em **Java Spring**. <br>
+Adoto metodologias ágeis como **Scrum** e **Kanban** para garantir entregas de qualidade. <br>
+Meu trabalho é guiado por boas práticas de desenvolvimento, incluindo os princípios <br>
+**SOLID**, **Design Patterns** e **Clean Code**.
 
-## 🛠 Habilidades
-- **Backend:** Java e Spring (Web, Security, Data, MVC, Mail), JPA, Hibernate, <br>
-  JWT, JUnit, Mockito, Log4j 2, JDBC, Servlets, JSP, JSTL, JavaFX.
-- **Bancos de Dados:** SQL, T-SQL, NoSQL.
-- **Frontend:** HTML, CSS, JavaScript, Charts.js, Bootstrap.
-- **Ferramentas:** Intellij, VS Code, Postman, SQL Server, MongoDB Compass, Swagger, Trello.
-- **Metodologias ágeis:** Scrum, Kanban.
-- **Boas Práticas:** princípios SOLID, Design Patterns, Clean Code, documentação UML.
-- **Automação com macros em Excel:** VBA (Visual Basic for Applications).
+## 🛠 Principais Habilidades
+**Backend:** <br>
+![Java](https://img.shields.io/badge/Java-633309?style=flat&logo=coffeescript&logoColor=white) 
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat&logo=springsecurity&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=Hibernate&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=JSON%20web%20tokens&logoColor=white)
+![JUnit5](https://img.shields.io/badge/Junit5-25A162?style=flat&logo=junit5&logoColor=white)
+
+**Bancos de Dados:** <br>
+![SQL Server](https://img.shields.io/badge/SQL%20Server-316192?style=flat&logo=adminer&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+
+**Frontend:** <br>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![Chart js](https://img.shields.io/badge/Chart%20js-FF6384?style=flat&logo=chartdotjs&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+
+**Ferramentas:** <br>
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=htmx&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=Swagger&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white)
+
+**Automação**: <br>
+![VBA Visual Basic for Applications](https://img.shields.io/badge/VBA%20(Visual%20Basic%20for%20Applications)-007C3C?style=flat&logo=libreofficecalc&logoColor=white)
 
 ## 🎓 Formação Acadêmica:
- - Graduado em Análise e Desenvolvimento de Sistemas pela FATEC Zona Leste.
- - Cursando Desenvolvimento de Software Multiplataforma na FATEC Zona Leste.
-  
+Graduado em Análise e Desenvolvimento de Sistemas pela FATEC Zona Leste. <br>
+Cursando Desenvolvimento de Software Multiplataforma na FATEC Zona Leste.
+
 ## 💬 Contato
-- Linkedin: [linkedin.com/in/rogeriogregorio](https://linkedin.com/in/rogeriogregorio)
-- Email: [bernardo.rogerio93@gmail.com](mailto:bernardo.rogerio93@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/rogeriogregorio)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bernardo.rogerio93@gmail.com)
