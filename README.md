@@ -30,9 +30,6 @@ Desenvolvedor de software apaixonado por programação, com experiência em dese
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=Swagger&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white)
 
-**Automação**: <br>
-![VBA Visual Basic for Applications](https://img.shields.io/badge/VBA%20(Visual%20Basic%20for%20Applications)-007C3C?style=flat&logo=libreofficecalc&logoColor=white)
-
 ## 🎓 Formação Acadêmica:
 Graduado em Análise e Desenvolvimento de Sistemas pela FATEC Zona Leste. <br>
 Cursando Desenvolvimento de Software Multiplataforma na FATEC Zona Leste.
