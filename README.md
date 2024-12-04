@@ -35,5 +35,5 @@ Graduado em Análise e Desenvolvimento de Sistemas pela FATEC Zona Leste. <br>
 Cursando Desenvolvimento de Software Multiplataforma na FATEC Zona Leste.
 
 ## 💬 Contato
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/rogeriogregorio)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bernardo.rogerio93@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin.com/in/rogeriogregorio-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/rogeriogregorio)
+[![Email](https://img.shields.io/badge/bernardo.rogerio93@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bernardo.rogerio93@gmail.com)
