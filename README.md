@@ -10,16 +10,16 @@ Sou um desenvolvedor de software apaixonado por programação, com experiência 
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=JSON%20web%20tokens&logoColor=white)
 ![JUnit5](https://img.shields.io/badge/Junit5-25A162?style=flat&logo=junit5&logoColor=white)
 
-**Bancos de Dados:** <br>
-![SQL Server](https://img.shields.io/badge/SQL%20Server-316192?style=flat&logo=adminer&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-
 **Frontend:** <br>
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
 ![Chart js](https://img.shields.io/badge/Chart%20js-FF6384?style=flat&logo=chartdotjs&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+
+**Bancos de Dados:** <br>
+![SQL Server](https://img.shields.io/badge/SQL%20Server-316192?style=flat&logo=adminer&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 
 **Ferramentas:** <br>
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white)
