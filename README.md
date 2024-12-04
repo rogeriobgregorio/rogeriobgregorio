@@ -28,9 +28,9 @@ Sou um desenvolvedor de software apaixonado por programação, com experiência 
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=Swagger&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white)
 
-## 🎓 Formação Acadêmica:
-Graduado em Análise e Desenvolvimento de Sistemas pela FATEC Zona Leste. <br>
-Cursando Desenvolvimento de Software Multiplataforma na FATEC Zona Leste.
+## 🎓 Formação Acadêmica
+- Graduado em Análise e Desenvolvimento de Sistemas pela FATEC Zona Leste. <br>
+- Cursando Desenvolvimento de Software Multiplataforma na FATEC Zona Leste.
 
 ## 💬 Contato
 [![LinkedIn](https://img.shields.io/badge/linkedin.com/in/rogeriogregorio-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/rogeriogregorio)
