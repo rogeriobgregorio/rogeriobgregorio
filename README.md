@@ -1,7 +1,7 @@
-# 🚀 Olá, meu nome é Rogério Gregório!
+# 👋🏻 Olá, meu nome é Rogério Gregório!
 Sou um desenvolvedor de software apaixonado por programação, com experiência em desenvolvimento **backend** e construção de **APIs REST** utilizando **Java** e ecossistema **Spring**. Adoto metodologias ágeis como **Scrum** e **Kanban** para garantir entregas de valor, além de boas práticas de desenvolvimento, incluindo **SOLID**, **Design Patterns** e **Clean Code** para códigos escaláveis e de fácil manutenção.
 
-## 🛠 Principais Habilidades
+## 🚀 Principais Habilidades
 **Backend:** <br>
 ![Java](https://img.shields.io/badge/Java-633309?style=flat&logo=coffeescript&logoColor=white) 
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
