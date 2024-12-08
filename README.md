@@ -1,4 +1,7 @@
 # 👋🏻 Olá, meu nome é Rogério Gregório!
+[![LinkedIn](https://img.shields.io/badge/linkedin.com/in/rogeriogregorio-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/rogeriogregorio)
+[![Email](https://img.shields.io/badge/bernardo.rogerio93@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bernardo.rogerio93@gmail.com) 
+<br>
 Sou um desenvolvedor de software apaixonado por programação, com experiência em desenvolvimento **backend** e construção de **APIs REST** utilizando **Java** e ecossistema **Spring**. Adoto metodologias ágeis como **Scrum** e **Kanban** para garantir entregas de valor, além de boas práticas de desenvolvimento, incluindo **SOLID**, **Design Patterns** e **Clean Code** para códigos escaláveis e de fácil manutenção.
 
 ## 🚀 Principais Habilidades
@@ -31,7 +34,3 @@ Sou um desenvolvedor de software apaixonado por programação, com experiência 
 ## 🎓 Formação Acadêmica
 **Graduado:** Análise e Desenvolvimento de Sistemas pela FATEC Zona Leste. <br>
 **Cursando:** Desenvolvimento de Software Multiplataforma na FATEC Zona Leste.
-
-## 💬 Contato
-[![LinkedIn](https://img.shields.io/badge/linkedin.com/in/rogeriogregorio-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/rogeriogregorio)
-[![Email](https://img.shields.io/badge/bernardo.rogerio93@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bernardo.rogerio93@gmail.com)
