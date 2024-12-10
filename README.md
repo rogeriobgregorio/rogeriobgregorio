@@ -1,8 +1,8 @@
 # 👨🏻‍💻 Olá, meu nome é Rogério Gregório! 
 Sou um desenvolvedor de software apaixonado por programação, com experiência em desenvolvimento **backend** e construção de **APIs REST** utilizando **Java** e ecossistema **Spring**. Adoto metodologias ágeis como **Scrum** e **Kanban** para garantir entregas de valor, além de boas práticas de desenvolvimento, incluindo **SOLID**, **Design Patterns** e **Clean Code** para códigos escaláveis e de fácil manutenção.
 
-**`Graduado:`** Análise e Desenvolvimento de Sistemas pela FATEC Zona Leste.  
-**`Cursando:`** Desenvolvimento de Software Multiplataforma na FATEC Zona Leste.
+**`Graduado ✔`** Análise e Desenvolvimento de Sistemas pela FATEC Zona Leste.  
+**`Cursando ⟳`** Desenvolvimento de Software Multiplataforma na FATEC Zona Leste.
 
 ## 🚀 Principais Habilidades
 
