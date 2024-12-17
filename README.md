@@ -14,15 +14,7 @@ Sou um desenvolvedor de software apaixonado por programação, com experiência 
 **Ferramentas:** ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-000000?style=flat&logo=htmx&logoColor=007ACC) ![Postman](https://img.shields.io/badge/Postman-000000?style=flat&logo=Postman&logoColor=FF6C37) ![Swagger](https://img.shields.io/badge/Swagger-000000?style=flat&logo=Swagger&logoColor=85EA2D) ![Docker](https://img.shields.io/badge/Docker-000000?style=flat&logo=docker&logoColor=2496ED) ![Trello](https://img.shields.io/badge/Trello-000000?style=flat&logo=trello&logoColor=0052CC)
 
 # 🏆 Projetos em destaque
-
-**[Environmental Reporting Portal - (API Rest + Interface)](https://github.com/rogeriobgregorio/environmental-reporting-portal)**  
-Aplicação web segura e eficiente para a denúncia e monitoramento de problemas ambientais.
-
-**[E-commerce Manager - (API Rest)](https://github.com/rogeriobgregorio/ecommerce-manager)**  
-Sistema robusto para gestão completa de e-commerce, consumindo API do Efí Bank para pagamentos via PIX.
-
-**[Book Management System - (API Rest + Interface)](https://github.com/rogeriobgregorio/book-management-system)**  
-Aplicação Web para gerenciamento de livros.
+Veja meu principais projetos fixados abaixo ⤵️
 
 
 
