@@ -14,7 +14,7 @@ Sou um desenvolvedor de software apaixonado por programação, com experiência 
 **Ferramentas:** ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-000000?style=flat&logo=htmx&logoColor=007ACC) ![Postman](https://img.shields.io/badge/Postman-000000?style=flat&logo=Postman&logoColor=FF6C37) ![Swagger](https://img.shields.io/badge/Swagger-000000?style=flat&logo=Swagger&logoColor=85EA2D) ![Docker](https://img.shields.io/badge/Docker-000000?style=flat&logo=docker&logoColor=2496ED) ![Trello](https://img.shields.io/badge/Trello-000000?style=flat&logo=trello&logoColor=0052CC)
 
 # 🏆 Projetos em destaque
-Veja meu principais projetos fixados abaixo ⤵️
+Confira meus **principais projetos** fixados abaixo ⤵️
 
 
 
