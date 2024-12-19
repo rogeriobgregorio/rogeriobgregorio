@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Olá, meu nome é Rogério Gregório! 
 [![LinkedIn](https://img.shields.io/badge/rogeriogregorio-000000?style=flat&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/rogeriogregorio)
-[![Email](https://img.shields.io/badge/bernardo.rogerio93@gmail-000000?style=flat&logo=gmail&logoColor=D14836)](mailto:bernardo.rogerio93@gmail.com) [![Instagram](https://img.shields.io/badge/@rogeriogregorio__-000000?style=flat&logo=instagram&logoColor=D14836)](https://www.instagram.com/rogeriogregorio_/) [![Youtube](https://img.shields.io/badge/@rogeriogregorio93-000000?style=flat&logo=youtube&logoColor=D14836)](https://www.youtube.com/@rogeriogregorio93)  
+[![Email](https://img.shields.io/badge/bernardo.rogerio93@gmail-000000?style=flat&logo=gmail&logoColor=D14836)](mailto:bernardo.rogerio93@gmail.com) [![Instagram](https://img.shields.io/badge/@rogeriogregorio__-000000?style=flat&logo=instagram&logoColor=FF6384)](https://www.instagram.com/rogeriogregorio_/) [![Youtube](https://img.shields.io/badge/@rogeriogregorio93-000000?style=flat&logo=youtube&logoColor=D14836)](https://www.youtube.com/@rogeriogregorio93)  
 Sou um desenvolvedor de software apaixonado por programação, com experiência em desenvolvimento **backend** e construção de **APIs REST** utilizando **Java** e ecossistema **Spring**. Adoto metodologias ágeis como **Scrum** e **Kanban** e boas práticas de programação, incluindo **SOLID**, **Design Patterns** e **Clean Code**.
 
 **`Graduado 6/6`** Análise e Desenvolvimento de Sistemas pela FATEC Zona Leste.  
