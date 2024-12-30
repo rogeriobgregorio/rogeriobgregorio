@@ -1,5 +1,5 @@
 # 👨🏻‍💻 Olá, meu nome é Rogério Gregório!  
-[![LinkedIn](https://img.shields.io/badge/rogeriogregorio-000000?style=flat&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/rogeriogregorio) [![Email](https://img.shields.io/badge/bernardo.rogerio93@gmail-000000?style=flat&logo=gmail&logoColor=D14836)](mailto:bernardo.rogerio93@gmail.com) [![Instagram](https://img.shields.io/badge/@rogeriogregorio-000000?style=flat&logo=instagram&logoColor=FF6384)](https://www.instagram.com/rogeriogregorio_/) [![Youtube](https://img.shields.io/badge/@rogeriogregorio93-000000?style=flat&logo=youtube&logoColor=D14836)](https://www.youtube.com/@rogeriogregorio93)  
+[![Email](https://img.shields.io/badge/bernardo.rogerio93@gmail.com-000000?style=flat&logo=gmail&logoColor=D14836)](mailto:bernardo.rogerio93@gmail.com) [![Instagram](https://img.shields.io/badge/@rogeriogregorio__-000000?style=flat&logo=instagram&logoColor=FF6384)](https://www.instagram.com/rogeriogregorio_/) [![Youtube](https://img.shields.io/badge/@rogeriogregorio93-000000?style=flat&logo=youtube&logoColor=D14836)](https://www.youtube.com/@rogeriogregorio93)  
 Sou um desenvolvedor de software apaixonado por programação, com experiência em desenvolvimento **backend** e construção de **APIs REST** utilizando **Java** e ecossistema **Spring**. Adoto metodologias ágeis como **Scrum** e **Kanban** e boas práticas de programação, incluindo **SOLID**, **Design Patterns** e **Clean Code**.
 
 **`Graduado 6/6`** Análise e Desenvolvimento de Sistemas pela FATEC Zona Leste.  
@@ -13,8 +13,5 @@ Sou um desenvolvedor de software apaixonado por programação, com experiência 
 **Ferramentas:** ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-000000?style=flat&logo=htmx&logoColor=007ACC) ![Postman](https://img.shields.io/badge/Postman-000000?style=flat&logo=Postman&logoColor=FF6C37) ![Swagger](https://img.shields.io/badge/Swagger-000000?style=flat&logo=Swagger&logoColor=85EA2D) ![Docker](https://img.shields.io/badge/Docker-000000?style=flat&logo=docker&logoColor=2496ED) ![Trello](https://img.shields.io/badge/Trello-000000?style=flat&logo=trello&logoColor=0052CC)
 
 # 🏆 Projetos em destaque
-Confira meus **principais projetos** fixados abaixo ⤵️
-
-
-
+Confira meus **principais projetos** fixados abaixo ⤵️  
 
