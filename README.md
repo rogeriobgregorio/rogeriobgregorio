@@ -1,9 +1,9 @@
 # 👨🏻‍💻 Olá, meu nome é Rogério Gregório!  
 [![Email](https://img.shields.io/badge/bernardo.rogerio93@gmail.com-000000?style=flat&logo=gmail&logoColor=D14836)](mailto:bernardo.rogerio93@gmail.com) [![Instagram](https://img.shields.io/badge/@rogeriogregorio__-000000?style=flat&logo=instagram&logoColor=FF6384)](https://www.instagram.com/rogeriogregorio_/) [![Youtube](https://img.shields.io/badge/@rogeriogregorio93-000000?style=flat&logo=youtube&logoColor=D14836)](https://www.youtube.com/@rogeriogregorio93)  
-Sou um desenvolvedor de software apaixonado por programação, com experiência em desenvolvimento **backend** e construção de **APIs REST** utilizando **Java** e ecossistema **Spring**. Adoto metodologias ágeis como **Scrum** e **Kanban** e boas práticas de programação, incluindo **SOLID**, **Design Patterns** e **Clean Code**.
+Sou desenvolvedor de software com experiência em desenvolvimento **backend** e **mobile**. Trabalho com metodologias ágeis, como **Scrum** e **Kanban**, e sigo boas práticas de programação, incluindo **SOLID**, **Design Patterns** e **Clean Code**.
 
-**`Graduado 6/6`** Análise e Desenvolvimento de Sistemas pela FATEC Zona Leste.  
-**`Cursando 3/6`** Desenvolvimento de Software Multiplataforma na FATEC Zona Leste.
+**`Graduado 6/6`** Análise e Desenvolvimento de Sistemas - FATEC Zona Leste.  
+**`Cursando 3/6`** Desenvolvimento de Software Multiplataforma - FATEC Zona Leste.
 
 # 🚀 Principais Habilidades
 
@@ -19,7 +19,8 @@ Sou um desenvolvedor de software apaixonado por programação, com experiência 
 ![Dart](https://img.shields.io/badge/Dart-000000?style=flat&logo=dart&logoColor=0175C2) ![Flutter](https://img.shields.io/badge/Flutter-000000?style=flat&logo=flutter&logoColor=02569B)    
 
 **Banco de Dados:**   
-![SQL Server](https://img.shields.io/badge/SQL%20Server-000000?style=flat&logo=adminer&logoColor=29a2ff) ![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=flat&logo=mongodb&logoColor=4EA94B) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat&logo=postgresql&logoColor=4169E1) ![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat&logo=mysql&logoColor=4479A1) ![Firebase](https://img.shields.io/badge/Firebase-000000?style=flat&logo=firebase&logoColor=FFCA28) ![H2 Database](https://img.shields.io/badge/H2%20Database-000000?style=flat&logo=sqlite&logoColor=00c292)   
+![SQL Server](https://img.shields.io/badge/SQL%20Server-000000?style=flat&logo=adminer&logoColor=29a2ff) ![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=flat&logo=mongodb&logoColor=4EA94B) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat&logo=postgresql&logoColor=4169E1) ![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat&logo=mysql&logoColor=4479A1) ![Firebase](https://img.shields.io/badge/Firebase-000000?style=flat&logo=firebase&logoColor=FFCA28) ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-000000?style=flat&logo=apache-hive&logoColor=E4A010) ![SQLite](https://img.shields.io/badge/SQLite-000000?style=flat&logo=sqlite&logoColor=003B57)
+    
 
 **Ferramentas:**   
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-000000?style=flat&logo=htmx&logoColor=007ACC) ![Postman](https://img.shields.io/badge/Postman-000000?style=flat&logo=Postman&logoColor=FF6C37) ![Swagger](https://img.shields.io/badge/Swagger-000000?style=flat&logo=Swagger&logoColor=85EA2D) ![Docker](https://img.shields.io/badge/Docker-000000?style=flat&logo=docker&logoColor=2496ED) ![Git](https://img.shields.io/badge/Git-000000?style=flat&logo=git&logoColor=F05032) ![Trello](https://img.shields.io/badge/Trello-000000?style=flat&logo=trello&logoColor=0052CC)  
