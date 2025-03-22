@@ -19,7 +19,7 @@ Sou desenvolvedor de software com experiência em desenvolvimento **backend** e 
 ![Dart](https://img.shields.io/badge/Dart-000000?style=flat&logo=dart&logoColor=0175C2) ![Flutter](https://img.shields.io/badge/Flutter-000000?style=flat&logo=flutter&logoColor=02569B)    
 
 **Banco de Dados:**   
-![SQL Server](https://img.shields.io/badge/SQL%20Server-000000?style=flat&logo=adminer&logoColor=29a2ff) ![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=flat&logo=mongodb&logoColor=4EA94B) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat&logo=postgresql&logoColor=4169E1) ![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat&logo=mysql&logoColor=4479A1) ![Firebase](https://img.shields.io/badge/Firebase-000000?style=flat&logo=firebase&logoColor=FFCA28) ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-000000?style=flat&logo=apache-hive&logoColor=E4A010) ![SQLite](https://img.shields.io/badge/SQLite-000000?style=flat&logo=sqlite&logoColor=003B57)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-000000?style=flat&logo=adminer&logoColor=29a2ff) ![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=flat&logo=mongodb&logoColor=4EA94B) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat&logo=postgresql&logoColor=4169E1) ![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat&logo=mysql&logoColor=4479A1) ![Firebase](https://img.shields.io/badge/Firebase-000000?style=flat&logo=firebase&logoColor=FFCA28) ![SQLite](https://img.shields.io/badge/SQLite-000000?style=flat&logo=sqlite&logoColor=003B57)
     
 
 **Ferramentas:**   
