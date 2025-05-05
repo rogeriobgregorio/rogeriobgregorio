@@ -13,7 +13,7 @@ Sou desenvolvedor de software com experiência em desenvolvimento **backend** e 
 ![Python](https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=3776AB) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-000000?style=flat&logo=sqlalchemy&logoColor=red)   
    
 **Frontend:**   
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat&logo=html5&logoColor=E34F26) ![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat&logo=css3&logoColor=1572B6) ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript&logoColor=F7DF1E) ![Chart js](https://img.shields.io/badge/Chart%20js-000000?style=flat&logo=chartdotjs&logoColor=FF6384) ![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=flat&logo=bootstrap&logoColor=563D7C) ![Angular](https://img.shields.io/badge/Angular-000000?style=flat&logo=angular&logoColor=DD0031)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat&logo=html5&logoColor=E34F26) ![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat&logo=css3&logoColor=1572B6) ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript&logoColor=F7DF1E) ![Chart js](https://img.shields.io/badge/Chart%20js-000000?style=flat&logo=chartdotjs&logoColor=FF6384) ![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=flat&logo=bootstrap&logoColor=563D7C)
   
 
 **Mobile:**   
@@ -27,7 +27,7 @@ Sou desenvolvedor de software com experiência em desenvolvimento **backend** e 
 ![Docker](https://img.shields.io/badge/Docker-000000?style=flat&logo=docker&logoColor=2496ED) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-000000?style=flat&logo=htmx&logoColor=007ACC) ![Postman](https://img.shields.io/badge/Postman-000000?style=flat&logo=Postman&logoColor=FF6C37) ![Swagger](https://img.shields.io/badge/Swagger-000000?style=flat&logo=Swagger&logoColor=85EA2D) ![Git](https://img.shields.io/badge/Git-000000?style=flat&logo=git&logoColor=F05032) ![Trello](https://img.shields.io/badge/Trello-000000?style=flat&logo=trello&logoColor=0052CC)  
 
 **Sistemas Operacionais:**   
-![Linux](https://img.shields.io/badge/Linux-000000?style=flat&logo=linux&logoColor=FCC624) ![Ubuntu](https://img.shields.io/badge/Ubuntu-000000?style=flat&logo=ubuntu&logoColor=E95420) ![Debian](https://img.shields.io/badge/Debian-000000?style=flat&logo=debian&logoColor=A80030) 
+![Ubuntu](https://img.shields.io/badge/Ubuntu-000000?style=flat&logo=ubuntu&logoColor=E95420) ![Debian](https://img.shields.io/badge/Debian-000000?style=flat&logo=debian&logoColor=A80030) 
 
 # 🏆 Projetos em destaque
 Confira meus **principais projetos** fixados abaixo ⤵️
