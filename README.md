@@ -29,7 +29,6 @@ Experiência em todas as etapas do ciclo de desenvolvimento, aplicando boas prá
 ![Mongoose](https://img.shields.io/badge/Mongoose-000000?style=flat&logo=mongoose&logoColor=880000)
 ![npm](https://img.shields.io/badge/npm-000000?style=flat&logo=npm&logoColor=CB3837)  
 ![Python](https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=3776AB)
-![Django](https://img.shields.io/badge/Django-000000?style=flat&logo=django&logoColor=092E20)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=FFFFFF)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-000000?style=flat&logo=sqlalchemy&logoColor=E34F26)
 
