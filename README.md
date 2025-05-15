@@ -60,9 +60,11 @@ Experiência em todas as etapas do ciclo de desenvolvimento, aplicando boas prá
 ![Dart](https://img.shields.io/badge/Dart-000000?style=flat&logo=dart&logoColor=0175C2)
 ![Flutter](https://img.shields.io/badge/Flutter-000000?style=flat&logo=flutter&logoColor=02569B)
 
+<!--
 **Sistemas Operacionais:**
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-000000?style=flat&logo=ubuntu&logoColor=E95420)
 ![Debian](https://img.shields.io/badge/Debian-000000?style=flat&logo=debian&logoColor=A80030)
+-->
 
 # 🏆 Projetos em destaque
 Confira meus **principais projetos** fixados abaixo ⤵️
