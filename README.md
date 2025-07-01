@@ -3,8 +3,10 @@
 [![Instagram](https://img.shields.io/badge/@rogeriogregorio__-000000?style=flat&logo=instagram&logoColor=FF6384)](https://www.instagram.com/rogeriogregorio_/)
 [![Youtube](https://img.shields.io/badge/@rogeriogregorio93-000000?style=flat&logo=youtube&logoColor=FF0000)](https://www.youtube.com/@rogeriogregorio93)
 
+<!--
 Experiência em todas as etapas do ciclo de desenvolvimento, aplicando boas práticas de programação, como os princípios **SOLID**, 
 **Design Patterns**, **Domain Drive Design**, **Clean Code** e **Clean Architecture**, e seguindo metodologias ágeis, como **Scrum** e **Kanban**.
+-->
 
 **`Graduado 6/6`** Análise e Desenvolvimento de Sistemas - FATEC Zona Leste.  
 **`Cursando 3/6`** Desenvolvimento de Software Multiplataforma - FATEC Zona Leste.
