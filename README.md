@@ -40,7 +40,7 @@ Experiência em todas as etapas do ciclo de desenvolvimento, aplicando boas prá
 ![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat&logo=css3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript&logoColor=F7DF1E)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=flat&logo=bootstrap&logoColor=563D7C)
-![Angular](https://img.shields.io/badge/Angular-000000?style=flat&logo=angular&logoColor=DD0031)
+<!-- ![Angular](https://img.shields.io/badge/Angular-000000?style=flat&logo=angular&logoColor=DD0031) -->
 
 **Banco de Dados:**
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-000000?style=flat&logo=adminer&logoColor=29A2FF)
@@ -56,9 +56,11 @@ Experiência em todas as etapas do ciclo de desenvolvimento, aplicando boas prá
 ![Postman](https://img.shields.io/badge/Postman-000000?style=flat&logo=postman&logoColor=FF6C37)
 ![Swagger](https://img.shields.io/badge/Swagger-000000?style=flat&logo=swagger&logoColor=85EA2D)
 
+<!--
 **Mobile:**
 ![Dart](https://img.shields.io/badge/Dart-000000?style=flat&logo=dart&logoColor=0175C2)
 ![Flutter](https://img.shields.io/badge/Flutter-000000?style=flat&logo=flutter&logoColor=02569B)
+-->
 
 <!--
 **Sistemas Operacionais:**
