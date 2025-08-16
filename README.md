@@ -1,25 +1,13 @@
-# 👨🏻‍💻 Olá, meu nome é Rogério Gregório!  
-[![Email](https://img.shields.io/badge/bernardo.rogerio93@gmail.com-000000?style=flat&logo=gmail&logoColor=D14836)](mailto:bernardo.rogerio93@gmail.com)
-[![Instagram](https://img.shields.io/badge/@rogeriogregorio__-000000?style=flat&logo=instagram&logoColor=FF6384)](https://www.instagram.com/rogeriogregorio_/)
-[![Youtube](https://img.shields.io/badge/@rogeriogregorio93-000000?style=flat&logo=youtube&logoColor=FF0000)](https://www.youtube.com/@rogeriogregorio93)
-
-<!--
-Experiência em todas as etapas do ciclo de desenvolvimento, aplicando boas práticas de programação, como os princípios **SOLID**, 
-**Design Patterns**, **Domain Drive Design**, **Clean Code** e **Clean Architecture**, e seguindo metodologias ágeis, como **Scrum** e **Kanban**.
--->
-
-**`Graduado 6/6`** Análise e Desenvolvimento de Sistemas - FATEC Zona Leste.  
-**`Cursando 3/6`** Desenvolvimento de Software Multiplataforma - FATEC Zona Leste.
+# 👋 Olá! Seja bem-vindo(a)
+Desenvolvedor com experiência em todo o ciclo de desenvolvimento, aplicando **SOLID**, **Design Patterns**, e **Clean Code**, além de metodologias ágeis como **Scrum** e **Kanban**.
 
 # 🚀 Principais Habilidades
-
 **Backend:**
 ![Java](https://img.shields.io/badge/Java-000000?style=flat&logo=coffeescript&logoColor=D2B48C)
 ![Spring](https://img.shields.io/badge/Spring-000000?style=flat&logo=spring&logoColor=6DB33F)
 ![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat&logo=node.js&logoColor=339933)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat&logo=typescript&logoColor=3178C6)
 ![NestJS](https://img.shields.io/badge/NestJS-000000?style=flat&logo=nestjs&logoColor=E0234E)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=FFFFFF)
 ![Python](https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=3776AB)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=FFFFFF)
 
@@ -39,14 +27,14 @@ Experiência em todas as etapas do ciclo de desenvolvimento, aplicando boas prá
 
 **Frontend:**
 ![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat&logo=css3&logoColor=1572B6)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat&logo=css&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript&logoColor=F7DF1E)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=flat&logo=bootstrap&logoColor=563D7C)
 <!-- ![Angular](https://img.shields.io/badge/Angular-000000?style=flat&logo=angular&logoColor=DD0031) -->
 
 **Banco de Dados:**
-![SQL Server](https://img.shields.io/badge/SQL%20Server-000000?style=flat&logo=adminer&logoColor=29A2FF)
 ![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=flat&logo=mongodb&logoColor=4EA94B)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-000000?style=flat&logo=adminer&logoColor=29A2FF)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat&logo=postgresql&logoColor=4169E1)
 ![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat&logo=mysql&logoColor=4479A1)
 ![SQLite](https://img.shields.io/badge/SQLite-000000?style=flat&logo=sqlite&logoColor=003B57)
@@ -69,6 +57,15 @@ Experiência em todas as etapas do ciclo de desenvolvimento, aplicando boas prá
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-000000?style=flat&logo=ubuntu&logoColor=E95420)
 ![Debian](https://img.shields.io/badge/Debian-000000?style=flat&logo=debian&logoColor=A80030)
 -->
+
+# 🎓 Formação Acadêmica
+**Graduado 6/6:** Análise e Desenvolvimento de Sistemas - FATEC Zona Leste  
+**Cursando 3/6:** Desenvolvimento de Software Multiplataforma - FATEC Zona Leste
+
+# 💬 Contato:
+[![Email](https://img.shields.io/badge/bernardo.rogerio93@gmail.com-000000?style=flat&logo=gmail&logoColor=D14836)](mailto:bernardo.rogerio93@gmail.com)
+[![Instagram](https://img.shields.io/badge/@rogeriogregorio__-000000?style=flat&logo=instagram&logoColor=FF6384)](https://www.instagram.com/rogeriogregorio_/)
+[![Youtube](https://img.shields.io/badge/@rogeriogregorio93-000000?style=flat&logo=youtube&logoColor=FF0000)](https://www.youtube.com/@rogeriogregorio93)
 
 # 🏆 Projetos em destaque
 Confira meus **principais projetos** fixados abaixo ⤵️
