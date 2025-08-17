@@ -1,5 +1,6 @@
 # 👋 Olá! Seja bem-vindo(a)
-Desenvolvedor com experiência em todo o ciclo de desenvolvimento, aplicando **SOLID**, **Design Patterns**, e **Clean Code**, além de metodologias ágeis como **Scrum** e **Kanban**.
+Profissional com experiência em todo o ciclo de desenvolvimento, aplicando boas práticas de programação  
+como **SOLID**, **Design Patterns**, e **Clean Code**, além de metodologias ágeis como **Scrum** e **Kanban**.
 
 # 🚀 Principais Habilidades
 **Backend:**
