@@ -6,11 +6,13 @@ como **SOLID**, **Design Patterns**, e **Clean Code**, além de metodologias ág
 **Backend:**
 ![Java](https://img.shields.io/badge/Java-000000?style=flat&logo=coffeescript&logoColor=D2B48C)
 ![Spring](https://img.shields.io/badge/Spring-000000?style=flat&logo=spring&logoColor=6DB33F)
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat&logo=node.js&logoColor=339933)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat&logo=typescript&logoColor=3178C6)
 ![NestJS](https://img.shields.io/badge/NestJS-000000?style=flat&logo=nestjs&logoColor=E0234E)
 ![Python](https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=3776AB)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=FFFFFF)
+![Go](https://img.shields.io/badge/Go-000000?style=flat\&logo=go\&logoColor=00ADD8)
+![Gin](https://img.shields.io/badge/Gin-000000?style=flat\&logo=gin\&logoColor=00ADD8)
+<!--![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat&logo=node.js&logoColor=339933)-->
 
 <!--![Hibernate](https://img.shields.io/badge/Hibernate-000000?style=flat&logo=hibernate&logoColor=59666C) 
 ![Spring Security](https://img.shields.io/badge/Spring%20Security-000000?style=flat&logo=springsecurity&logoColor=6DB33F)
