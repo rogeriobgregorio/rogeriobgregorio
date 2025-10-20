@@ -1,11 +1,10 @@
 # 👋 Olá! Seja bem-vindo(a)
-Profissional com experiência em todo o ciclo de desenvolvimento, aplicando boas práticas de programação  
-como **SOLID**, **Design Patterns**, e **Clean Code**, além de metodologias ágeis como **Scrum** e **Kanban**.
+Profissional com experiência em todo o ciclo de desenvolvimento, aplicando boas práticas de programação como   
+**DDD**, **SOLID**, **Design Patterns**, **Clean Architecture** e **Clean Code**, além de metodologias ágeis como **Scrum** e **Kanban**.
 
 # 🚀 Principais Habilidades
 **Backend:**
 ![Go](https://img.shields.io/badge/Go-000000?style=flat\&logo=go\&logoColor=00ADD8)
-![Gin](https://img.shields.io/badge/Gin-000000?style=flat\&logo=gin\&logoColor=00ADD8)
 ![Java](https://img.shields.io/badge/Java-000000?style=flat&logo=coffeescript&logoColor=D2B48C)
 ![Spring](https://img.shields.io/badge/Spring-000000?style=flat&logo=spring&logoColor=6DB33F)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat&logo=typescript&logoColor=3178C6)
