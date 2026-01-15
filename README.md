@@ -62,7 +62,7 @@ Profissional com experiência em todo o ciclo de desenvolvimento, aplicando boas
 
 # 🎓 Formação Acadêmica
 **Graduado 6/6:** Análise e Desenvolvimento de Sistemas - FATEC Zona Leste  
-**Cursando 3/6:** Desenvolvimento de Software Multiplataforma - FATEC Zona Leste
+**Cursando 4/6:** Desenvolvimento de Software Multiplataforma - FATEC Zona Leste
 
 # 💬 Contato:
 [![Email](https://img.shields.io/badge/bernardo.rogerio93@gmail.com-000000?style=flat&logo=gmail&logoColor=D14836)](mailto:bernardo.rogerio93@gmail.com)
