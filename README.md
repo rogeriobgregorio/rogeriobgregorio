@@ -24,29 +24,8 @@ Tenho forte afinidade com **arquitetura de software** — DDD, Clean Architectur
 ### Bancos de Dados
 [![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongo,sqlite,dynamodb)](https://skillicons.dev)
 
-### DevOps & Ferramentas
-[![My Skills](https://skillicons.dev/icons?i=docker,terraform,githubactions,postman,bash,linux,debian,ubuntu,powershell,vscode)](https://skillicons.dev)
+### Infra & DevOps
+[![My Skills](https://skillicons.dev/icons?i=docker,terraform,githubactions)](https://skillicons.dev)
 
-
-## Experiência Profissional
-
-### Itaú Unibanco — *Engenheiro de Software Júnior*
-`março/2026 – atualmente`
-
-
-### Prefeitura de São Paulo / SMUL — *Estagiário Fullstack*
-`agosto/2025 – março/2026` 
-
-
-### MakeDrive / DRCpro Engenharia — *Estagiário Multiplataforma*
-`janeiro/2025 – julho/2025`
-
-
-## Formação Acadêmica
-
-### *Desenvolvimento de Software Multiplataforma* — FATEC Zona Leste
-`Previsão: jun/2027`
-
-### *Análise e Desenvolvimento de Sistemas* — FATEC Zona Leste
-`Concluído: jun/2023`
-
+### SO & Shell
+[![My Skills](https://skillicons.dev/icons?i=linux,debian,ubuntu,powershell,bash)](https://skillicons.dev)
