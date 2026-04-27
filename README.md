@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=fff&center=true&vCenter=true&width=700&lines=Backend+Software+Engineer+%7C+Go+%26+Java;Domain-Driven+Design+%7C+SOLID+%7C+Design+Patterns;Clean+Architecture+%7C+Hexagonal+%7C+layers;AWS+%7C+Kafka+%7C+Microservices;Always+learning%2C+always+shipping+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=fff&center=true&vCenter=true&width=1000&lines=Backend+Software+Engineer+%7C+Go+%26+Java;Domain-Driven+Design+%7C+SOLID+%7C+Design+Patterns;Clean+Architecture+%7C+Event-Driven+Architecture+%7C+hexagonal+architecture;AWS+%7C+Kafka+%7C+Microservices;Always+learning%2C+always+shipping+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
