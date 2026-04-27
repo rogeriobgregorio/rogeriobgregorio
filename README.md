@@ -13,10 +13,13 @@ Tenho forte afinidade com **arquitetura de software** — DDD, Clean Architectur
 ## Stack Técnica
 
 ### Backend
-[![My Skills](https://skillicons.dev/icons?i=go,java,kotlin,spring,nodejs,typescript,nestjs,python,flask,dart,flutter)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,java,spring,nodejs,express,typescript,nestjs,python,flask,fastapi)](https://skillicons.dev)
 
 ### Frontend
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,javascript,angular)](https://skillicons.dev)
+
+### Multiplataforma
+[![My Skills](https://skillicons.dev/icons?i=kotlin,dart,flutter)](https://skillicons.dev)
 
 ### Cloud & Mensageria
 [![My Skills](https://skillicons.dev/icons?i=aws,kafka)](https://skillicons.dev)
