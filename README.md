@@ -7,8 +7,7 @@
 ## Sobre mim
 
 Sou um **Engenheiro de Software** apaixonado por construir sistemas robustos, escaláveis e bem arquitetados. Atuo no **core bancário do Itaú Unibanco**, no time de parcelamento de compras de Cartões de Crédito, onde trabalho com tecnologias de alta disponibilidade e missão crítica.
-
-Tenho forte afinidade com **arquitetura de software** — DDD, Clean Architecture, Hexagonal, SOLID e Design Patterns são princípios que aplico no dia a dia, não apenas conceitos teóricos. Gosto de escrever código que seja limpo, testável e fácil de manter.
+Tenho forte afinidade com **arquitetura de software**, Domain-Driven Design, Clean Architecture, Hexagonal, SOLID e Design Patterns são princípios que aplico no dia a dia. Gosto de escrever código que seja limpo, testável e fácil de manter.
 
 ## Stack Técnica
 
